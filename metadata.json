@@ -1,0 +1,8 @@
+{
+  "name": "ApexLIS - Advanced AI-Powered Laboratory Information System",
+  "description": "Enterprise-grade Laboratory Information System for pathology and diagnostic centres featuring multi-branch workflows, barcode tracking, analyzer interfacing, pathologist verification, AI drafting, and patient portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
